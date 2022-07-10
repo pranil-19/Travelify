@@ -1,0 +1,22 @@
+.crow {
+    height:100vh;
+}
+.register-form-block {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    margin-bottom: auto;
+}
+  
+.custom-btn {
+    background: rgb(216, 75, 216) !important;
+}
+.title {
+    color: blueviolet;
+    font-family: playfair;
+    font-weight: 700;
+}
+.column-2 {
+    /* background: rgb(163, 85, 236) !important; */
+}

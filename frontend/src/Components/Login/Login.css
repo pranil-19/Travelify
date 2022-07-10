@@ -1,0 +1,24 @@
+.crow {
+    height:100vh;
+}
+.login-form-block {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    margin-bottom: auto;
+}
+  
+.custom-btn {
+    background: rgb(216, 75, 216) !important;
+}
+.title {
+    color: blueviolet;
+    font-family: playfair;
+    font-weight: 700;
+}
+.column-2 {
+    background-image: url('https://wallpaperaccess.com/full/647493.jpg');
+    background-size: cover;
+    padding-top: 5%;
+}
